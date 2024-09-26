@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "285897096632",
+    "project_id": "diary-farm-final",
+    "storage_bucket": "diary-farm-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285897096632:android:58d602a5499e33eebca34d",
+        "android_client_info": {
+          "package_name": "com.example.diary_farm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASAY9kzt5xirmckqxt8VUlV6oGT6aS6Jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
